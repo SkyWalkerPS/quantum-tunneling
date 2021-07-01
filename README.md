@@ -4,6 +4,8 @@
 
 A simulation demonstration project on quantum tunneling
 
+The site can be viewed [here](https://quantum-tunneling.netlify.app/)
+
 # Installation
 
 **NOTE**: Software requirements:
