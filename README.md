@@ -6,8 +6,11 @@ A simulation demonstration project on quantum tunneling
 
 # Installation
 
-- Fork this repo
--
+**NOTE**: Software requirements:
+  1) NodeJS 12.0 or higher
+  2) Git 2.25
+
+- Fork this repo, then:
 ```
 git clone CLONE_URL_OF_FORKED_REPO
 cd quantum-tunneling
@@ -17,6 +20,11 @@ npm i
 # Go live
 ```
 npm start
+```
+
+# Post commits
+```
+npm run build
 ```
 
 Go to `http://localhost:3000/` in the browser to preview the app
@@ -31,10 +39,13 @@ Go to `http://localhost:3000/` in the browser to preview the app
 
 - React Components **should** use Functional Components
 - Self Explanatory Code and/or Comments Explaining Code in detail (using Better Comments extension)
+- Fetch Upstream in forked repository and pull before coding
+- Always follow the [post commit](#post-commits) guidelines
 
 # Pre-requisites
 - HTML
 - CSS
+- Git/Github
 - Vanilla JavaScript
 - ReactJS
 
