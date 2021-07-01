@@ -29,8 +29,8 @@ Go to `http://localhost:3000/` in the browser to preview the app
 # File Structure
 
 - CSS : Along with the React Component (either `.css` or `.scss` doesn't matter)
-- Pages : `./src/` (written in `.jsx`)
-- Components : `./src/comp/` (written in `.jsx`)
+- Pages : `./src/` (written in `.jsx` or `.js` doesn't matter)
+- Components : `./src/comp/` (written in `.jsx` or `.js` doesn't matter)
 
 # Contributing Guidelines
 
