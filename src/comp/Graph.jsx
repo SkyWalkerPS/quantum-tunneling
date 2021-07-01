@@ -15,7 +15,7 @@ const graphDraw = () => {
 
   let waveDispl = 0;
   setInterval(() => {
-    ctx.clearRect(0, 0, cheight * 2, cwidth * 2);
+    ctx.clearRect(0, 0, cwidth, cheight);
     ctx.beginPath();
     for(let i = 0; i<cwidth; i++) {
       ctx.lineTo(i, cheight /2 + 100 * Math.sin(i/20 + waveDispl))
