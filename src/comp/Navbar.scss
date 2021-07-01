@@ -1,3 +1,37 @@
 .navbar {
-  background-color: green;
+  width: 100%;
+  height: 72px;
+  background-color: #444444;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+  color: rgb(226, 226, 226);
+}
+
+.navbar .navbar-brand{
+  width: 30%;
+}
+
+.navbar .navbar-links{
+  width: 70%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar .navbar-links li{
+  margin: 0 5rem;
+}
+  
+.active{
+  background-color: #DA0037;
+  box-shadow: 2px 2px 4px #bb0d38;
+  border-radius: 16px;
+  padding: 0.6rem;
+  transition: all 0.3s ease 0s;
+}
+
+.active:hover{
+  opacity: 0.8;
+  box-shadow: none;
 }
