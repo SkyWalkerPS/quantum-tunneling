@@ -1,0 +1,6 @@
+{
+  "short_name": "Quantum Tunneling Simulator",
+  "name": "A simulation demonstration project on quantum tunneling",
+  "start_url": ".",
+  "display": "standalone"
+}
