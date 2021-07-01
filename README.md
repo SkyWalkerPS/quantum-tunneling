@@ -24,11 +24,6 @@ npm i
 npm start
 ```
 
-# Post commits
-```
-npm run build
-```
-
 Go to `http://localhost:3000/` in the browser to preview the app
 
 # File Structure
@@ -42,7 +37,6 @@ Go to `http://localhost:3000/` in the browser to preview the app
 - React Components **should** use Functional Components
 - Self Explanatory Code and/or Comments Explaining Code in detail (using Better Comments extension)
 - Fetch Upstream in forked repository and pull before coding
-- Always follow the [post commit](#post-commits) guidelines
 - Always contibute by making a different branch and adding your code there
 
 # Pre-requisites
