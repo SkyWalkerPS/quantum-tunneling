@@ -1,9 +1,14 @@
+import Graph from "./comp/Graph";
+
 import "./Home.scss";
+
 
 const Home = () => {
 
   return (
-    <div className="home">Home</div>
+    <div className="home">
+      <Graph/>
+    </div>
   )
 }
 
