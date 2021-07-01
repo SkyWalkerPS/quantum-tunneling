@@ -4,7 +4,7 @@
 
 ![img](https://img.shields.io/badge/Node-^14.17.1-green) ![img](https://img.shields.io/github/package-json/dependency-version/resyfer/quantum-tunneling/react?color=blueviolet) ![img](https://img.shields.io/github/package-json/dependency-version/resyfer/quantum-tunneling/react-router-dom) ![img](https://img.shields.io/github/package-json/dependency-version/resyfer/quantum-tunneling/node-sass?color=4722df)
 
-![img](https://img.shields.io/tokei/lines/github/resyfer/quantum-tunneling) ![img](https://img.shields.io/github/commit-activity/m/resyfer/quantum-tunneling) ![img](https://img.shields.io/github/repo-size/resyfer/quantum-tunneling) ![img](https://img.shields.io/website?url=https%3A%2F%2Fquantum-tunneling.netlify.app%2F)
+![img](https://img.shields.io/tokei/lines/github/resyfer/quantum-tunneling) ![img](https://img.shields.io/github/repo-size/resyfer/quantum-tunneling) ![img](https://img.shields.io/website?url=https%3A%2F%2Fquantum-tunneling.netlify.app%2F)
 
 A simulation demonstration project on quantum tunneling
 
